@@ -1,0 +1,7 @@
+C:\Users\Jonathan\Documents\2018 Spring Semester\CS4330\CSharpLanguageBasics\CSharpLanguageBasics\bin\Debug\CSharpLanguageBasics.exe.config
+C:\Users\Jonathan\Documents\2018 Spring Semester\CS4330\CSharpLanguageBasics\CSharpLanguageBasics\bin\Debug\CSharpLanguageBasics.exe
+C:\Users\Jonathan\Documents\2018 Spring Semester\CS4330\CSharpLanguageBasics\CSharpLanguageBasics\bin\Debug\CSharpLanguageBasics.pdb
+C:\Users\Jonathan\Documents\2018 Spring Semester\CS4330\CSharpLanguageBasics\CSharpLanguageBasics\obj\Debug\CSharpLanguageBasics.csprojResolveAssemblyReference.cache
+C:\Users\Jonathan\Documents\2018 Spring Semester\CS4330\CSharpLanguageBasics\CSharpLanguageBasics\obj\Debug\CSharpLanguageBasics.csproj.CoreCompileInputs.cache
+C:\Users\Jonathan\Documents\2018 Spring Semester\CS4330\CSharpLanguageBasics\CSharpLanguageBasics\obj\Debug\CSharpLanguageBasics.exe
+C:\Users\Jonathan\Documents\2018 Spring Semester\CS4330\CSharpLanguageBasics\CSharpLanguageBasics\obj\Debug\CSharpLanguageBasics.pdb
